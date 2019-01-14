@@ -1,4 +1,4 @@
-# Terraform Sample For さくらのクラウド simple 監視
+# Terraform Sample For さくらのクラウド simple 監視 [![CircleCI](https://circleci.com/gh/inokappa/terraform-sakura-cloud-simple-monitoring-sample.svg?style=svg)](https://circleci.com/gh/inokappa/terraform-sakura-cloud-simple-monitoring-sample)
 
 ## About
 
