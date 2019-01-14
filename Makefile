@@ -13,6 +13,9 @@ plan: ## terraform plan を実行する
 apply: ## terraform apply を実行する
 	@~/bin/terraform apply
 
+show: ## terraform show を実行する
+	@~/bin/terraform show
+
 destroy: ## terraform destroy を実行する
 	@~/bin/terraform destroy
 
